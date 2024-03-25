@@ -1,3 +1,3 @@
 def call() {
-  sh " mvn clean package -DskipTests=true "
+  sh " mvn clean package  "
 }
